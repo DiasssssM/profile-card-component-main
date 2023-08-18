@@ -1,0 +1,46 @@
+body{
+    background-color:   hsl(185, 75%, 39%);
+}
+.card{
+    background: rgb(255, 254, 254);
+    height: 50vh;
+    width: 25vw;
+    position: relative;
+    left: 40vw;
+    border-radius: 20px;
+}
+#dias{
+    width: 8vw;
+    border-radius: 100%;
+   position:relative;
+    left: 8vw;
+    bottom: 9vh;
+    border: solid 4px black;
+}
+#capa{
+    width: 25vw;
+    border-radius: 20px 20px 0 0;
+
+}
+
+.texto{
+    position: relative;
+    left: 12vh;
+    bottom: 10vh;
+    
+}
+hr{
+    position: relative;
+    right: 6vw;
+}
+p{
+    position: relative;
+    right: 6vw;
+}
+p{
+    position: relative;
+    right: 6vw
+}
+    
+
+    
